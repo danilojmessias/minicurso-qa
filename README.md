@@ -8,6 +8,10 @@ Este projeto é parte de um minicurso de QA, focando na automação de testes us
 - pip (gerenciador de pacotes do Python)
 
 ## Instalação
+Site para testes
+```bash
+https://paulohlsena.github.io/formulario-testes/
+```
 
 1. Clone este repositório:
 
