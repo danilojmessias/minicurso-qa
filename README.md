@@ -13,10 +13,15 @@ Site para testes
 https://paulohlsena.github.io/formulario-testes/
 ```
 
+Caminho variavel de sistema
+```bash
+C:\Users\aluno\AppData\Local\Programs\Python\Python313\Scripts
+```
+
 1. Clone este repositório:
 
 ```bash
-https://github.com/danilojmessias/minicurso-qa.git
+git clone https://github.com/danilojmessias/minicurso-qa.git
 ```
 
 2. Instale as dependências:
