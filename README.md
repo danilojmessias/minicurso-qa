@@ -16,7 +16,7 @@ https://paulohlsena.github.io/formulario-testes/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/minicurso-qa.git
+https://github.com/danilojmessias/minicurso-qa.git
 ```
 
 2. Instale as dependências:
