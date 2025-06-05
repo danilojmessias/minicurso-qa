@@ -1,1 +1,31 @@
-# minicurso-qa
+# Minicurso QA - Automação de Testes com Behave e Selenium
+
+Este projeto é parte de um minicurso de QA, focando na automação de testes usando Behave e Selenium em Python.
+
+## Pré-requisitos
+
+- Python 3.x
+- pip (gerenciador de pacotes do Python)
+
+## Instalação
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/minicurso-qa.git
+```
+
+2. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+## Executando os Testes
+
+Para executar os testes, use o comando:
+```bash
+python runner.py
+```
+
+## Autor
+Danilo Messias - BT301438X 
