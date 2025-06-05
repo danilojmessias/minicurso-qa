@@ -17,6 +17,9 @@ Caminho variavel de sistema
 ```bash
 C:\Users\aluno\AppData\Local\Programs\Python\Python313\Scripts
 ```
+```bash
+C:\Users\aluno\AppData\Local\Programs\Python\Python313
+```
 
 1. Clone este repositório:
 
