@@ -8,11 +8,23 @@ Este projeto é parte de um minicurso de QA, focando na automação de testes us
 - pip (gerenciador de pacotes do Python)
 
 ## Instalação
+Site para testes
+```bash
+https://paulohlsena.github.io/formulario-testes/
+```
+
+Caminho variavel de sistema
+```bash
+C:\Users\aluno\AppData\Local\Programs\Python\Python313\Scripts
+```
+```bash
+C:\Users\aluno\AppData\Local\Programs\Python\Python313
+```
 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/minicurso-qa.git
+git clone https://github.com/danilojmessias/minicurso-qa.git
 ```
 
 2. Instale as dependências:
