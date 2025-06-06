@@ -1,4 +1,5 @@
-Feature: Cadastro de usuário
-    Scenario: Preenchimento e envio do formulário
-    Given o usuário está na página de login
-    When ele preenche usuário e senha válidos
+Feature: Cadastro de usuario valido
+    Scenario: Preenchimento e envio do formulario
+    Given o usuario esta na pagina de login
+    When ele preenche usuario e senha validos
+    Then valido a mensagem de sucesso

@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Para executar os testes, use o comando:
 ```bash
-python runner.py
+py runner.py
 ```
 
 ## Autor
